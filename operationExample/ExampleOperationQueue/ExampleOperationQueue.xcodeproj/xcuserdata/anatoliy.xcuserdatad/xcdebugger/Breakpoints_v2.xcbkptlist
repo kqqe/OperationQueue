@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0B08C780-B849-43FD-9368-1EF0840A0179"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E97EDF6-60F4-4388-8FA8-FAB06A80A1B3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExampleOperationQueue/Extenshion+UIImage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "downloadedImage(from:contentMode:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1E97EDF6-60F4-4388-8FA8-FAB06A80A1B3 - 17e299c872463a49"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in __C.UIImageView.downloadedImage(from: Swift.String, contentMode: __C.UIViewContentMode) -&gt; ()"
+                  moduleName = "ExampleOperationQueue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anatoliy/Desktop/ExampleOperationQueue/ExampleOperationQueue/Extenshion+UIImage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1336">
+               </Location>
+               <Location
+                  uuid = "1E97EDF6-60F4-4388-8FA8-FAB06A80A1B3 - 17e299c872463a49"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in __C.UIImageView.downloadedImage(from: Swift.String, contentMode: __C.UIViewContentMode) -&gt; ()"
+                  moduleName = "ExampleOperationQueue"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anatoliy/Desktop/ExampleOperationQueue/ExampleOperationQueue/Extenshion+UIImage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "1436">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "179AE917-5D9E-46C8-9F7A-9A407560A33A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ExampleOperationQueue/Extenshion+UIImage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "downloadedImage(from:contentMode:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
